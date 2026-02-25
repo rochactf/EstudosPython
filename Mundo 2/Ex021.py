@@ -7,7 +7,7 @@ for c in range(1, 5):
     nome = str(input("Digite o nome da {}° pessoa: ".format(c))).strip()
     idade = int(input('Digite a idade da {}° pessoa: '.format(c)))
     sexo = str(input("Digite o sexo da {}° pessoa [M/F]: ")).strip()
-    somaIDade += idade
+    somaIdade += idade
     if c ==1 and sexo in 'Mm':
         maiorH = idade
         nomeV = nome
