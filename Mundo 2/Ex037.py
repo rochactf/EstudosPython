@@ -6,4 +6,4 @@ while True:
     else:
         break
 
-print(f'Você digitou o numero {numero[esc]}')
+print(f'Você digitou o numero {numero[esc]}' )

@@ -1,7 +1,7 @@
 palavras = ('Python', 'Java', 'Programar', 'Estudos', 'Tupla')
 
 for palavra in palavras:
-    vogais = ''
+    vogais =''
     for letra in palavra:
         if letra.lower() in 'aeiou':
             vogais += letra + ''

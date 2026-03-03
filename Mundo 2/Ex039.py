@@ -11,6 +11,6 @@ while c < len(numeros):
     elif numeros[c] < menor:
         menor = numeros[c]
     c += 1
-print(f'Os numeros sorteados foram: {numeros}')
+print(f'Os numeros sorteados foram: {numeros}' )
 print(f'O menor numero é: {menor}')
 print(f'O maior numero é: {maior}')
