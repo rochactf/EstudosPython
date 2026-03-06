@@ -8,7 +8,7 @@ print('     JOGA NA MEGA SENA       ')
 print('-'*30)
 print('-'*30)
 quant = int(input('Quantos jogos você quer que eu sortei? '))
-tot =1
+tot = 1
 while tot <= quant:
     cont = 0
     while True:
